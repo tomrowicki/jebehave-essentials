@@ -1,4 +1,4 @@
-package com.softserve.jbehavedemo.domain;
+package tomrowicki.jbehavedemo.domain;
 
 import java.math.BigDecimal;
 

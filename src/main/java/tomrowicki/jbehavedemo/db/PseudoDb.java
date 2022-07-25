@@ -1,8 +1,8 @@
-package com.softserve.jbehavedemo.db;
+package tomrowicki.jbehavedemo.db;
 
-import com.softserve.jbehavedemo.domain.Discount;
-import com.softserve.jbehavedemo.domain.ServiceTier;
-import com.softserve.jbehavedemo.domain.Client;
+import tomrowicki.jbehavedemo.domain.Discount;
+import tomrowicki.jbehavedemo.domain.ServiceTier;
+import tomrowicki.jbehavedemo.domain.Client;
 
 import java.util.HashMap;
 import java.util.Map;

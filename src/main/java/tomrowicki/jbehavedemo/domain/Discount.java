@@ -1,4 +1,4 @@
-package com.softserve.jbehavedemo.domain;
+package tomrowicki.jbehavedemo.domain;
 
 public enum Discount {
     NEWCOMER_DISCOUNT,

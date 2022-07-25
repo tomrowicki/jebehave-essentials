@@ -1,4 +1,4 @@
-package com.softserve.jbehavedemo;
+package tomrowicki.jbehavedemo;
 
 public class EntryPoint {
     public static void main(String[] args) {

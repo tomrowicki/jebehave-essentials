@@ -1,6 +1,6 @@
-package com.softserve.jbehavedemo;
+package tomrowicki.jbehavedemo;
 
-import com.softserve.jbehavedemo.stories.SimpleInvoicingStory;
+import tomrowicki.jbehavedemo.stories.SimpleInvoicingStory;
 import org.jbehave.core.ConfigurableEmbedder;
 import org.jbehave.core.configuration.Configuration;
 import org.jbehave.core.configuration.MostUsefulConfiguration;

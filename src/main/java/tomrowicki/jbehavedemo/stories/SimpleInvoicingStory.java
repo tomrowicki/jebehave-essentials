@@ -1,8 +1,8 @@
-package com.softserve.jbehavedemo.stories;
+package tomrowicki.jbehavedemo.stories;
 
-import com.softserve.jbehavedemo.db.PseudoDb;
-import com.softserve.jbehavedemo.domain.*;
+import tomrowicki.jbehavedemo.db.PseudoDb;
 import org.jbehave.core.annotations.*;
+import tomrowicki.jbehavedemo.domain.*;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
